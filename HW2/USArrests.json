@@ -1,0 +1,1279 @@
+{
+  "Workbook": {
+    "DocumentProperties": {
+      "Author": "Sowmya Kommireddy",
+      "LastAuthor": "Sowmya Kommireddy",
+      "Created": "2022-02-16T02:13:53Z",
+      "LastSaved": "2022-02-16T02:14:11Z",
+      "Version": 16
+    },
+    "OfficeDocumentSettings": {
+      "AllowPNG": ""
+    },
+    "ExcelWorkbook": {
+      "WindowHeight": 15960,
+      "WindowWidth": 27640,
+      "WindowTopX": 780,
+      "WindowTopY": 1000,
+      "ProtectStructure": "False",
+      "ProtectWindows": "False"
+    },
+    "Styles": {
+      "Style": [
+        {
+          "Alignment": "",
+          "Borders": "",
+          "Font": "",
+          "Interior": "",
+          "NumberFormat": "",
+          "Protection": ""
+        },
+        {
+          "Borders": {
+            "Border": ""
+          },
+          "Font": "",
+          "Interior": ""
+        },
+        {
+          "Interior": "",
+          "NumberFormat": ""
+        }
+      ]
+    },
+    "Worksheet": {
+      "Names": {
+        "NamedRange": ""
+      },
+      "Table": {
+        "Column": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Row": [
+          {
+            "Cell": [
+              {
+                "Data": "State",
+                "NamedCell": ""
+              },
+              {
+                "Data": "Murder",
+                "NamedCell": ""
+              },
+              {
+                "Data": "Assault",
+                "NamedCell": ""
+              },
+              {
+                "Data": "UrbanPop",
+                "NamedCell": ""
+              },
+              {
+                "Data": "Percentage"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Alabama",
+                "NamedCell": ""
+              },
+              {
+                "Data": 13.2,
+                "NamedCell": ""
+              },
+              {
+                "Data": 236,
+                "NamedCell": ""
+              },
+              {
+                "Data": 58,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Medium"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Alaska",
+                "NamedCell": ""
+              },
+              {
+                "Data": 10,
+                "NamedCell": ""
+              },
+              {
+                "Data": 263,
+                "NamedCell": ""
+              },
+              {
+                "Data": 48,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Small"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Arizona",
+                "NamedCell": ""
+              },
+              {
+                "Data": 8.1,
+                "NamedCell": ""
+              },
+              {
+                "Data": 294,
+                "NamedCell": ""
+              },
+              {
+                "Data": 80,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Arkansas",
+                "NamedCell": ""
+              },
+              {
+                "Data": 8.8,
+                "NamedCell": ""
+              },
+              {
+                "Data": 190,
+                "NamedCell": ""
+              },
+              {
+                "Data": 50,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Medium"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "California",
+                "NamedCell": ""
+              },
+              {
+                "Data": 9,
+                "NamedCell": ""
+              },
+              {
+                "Data": 276,
+                "NamedCell": ""
+              },
+              {
+                "Data": 91,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Colorado",
+                "NamedCell": ""
+              },
+              {
+                "Data": 7.9,
+                "NamedCell": ""
+              },
+              {
+                "Data": 204,
+                "NamedCell": ""
+              },
+              {
+                "Data": 78,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Connecticut",
+                "NamedCell": ""
+              },
+              {
+                "Data": 3.3,
+                "NamedCell": ""
+              },
+              {
+                "Data": 110,
+                "NamedCell": ""
+              },
+              {
+                "Data": 77,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Delaware",
+                "NamedCell": ""
+              },
+              {
+                "Data": 5.9,
+                "NamedCell": ""
+              },
+              {
+                "Data": 238,
+                "NamedCell": ""
+              },
+              {
+                "Data": 72,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Florida",
+                "NamedCell": ""
+              },
+              {
+                "Data": 15.4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 335,
+                "NamedCell": ""
+              },
+              {
+                "Data": 80,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Georgia",
+                "NamedCell": ""
+              },
+              {
+                "Data": 17.4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 169.938,
+                "NamedCell": ""
+              },
+              {
+                "Data": 60,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Hawaii",
+                "NamedCell": ""
+              },
+              {
+                "Data": 5.3,
+                "NamedCell": ""
+              },
+              {
+                "Data": 46,
+                "NamedCell": ""
+              },
+              {
+                "Data": 83,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Idaho",
+                "NamedCell": ""
+              },
+              {
+                "Data": 2.6,
+                "NamedCell": ""
+              },
+              {
+                "Data": 120,
+                "NamedCell": ""
+              },
+              {
+                "Data": 54,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Medium"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Illinois",
+                "NamedCell": ""
+              },
+              {
+                "Data": 10.4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 249,
+                "NamedCell": ""
+              },
+              {
+                "Data": 83,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Indiana",
+                "NamedCell": ""
+              },
+              {
+                "Data": 7.2,
+                "NamedCell": ""
+              },
+              {
+                "Data": 113,
+                "NamedCell": ""
+              },
+              {
+                "Data": 65,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Iowa",
+                "NamedCell": ""
+              },
+              {
+                "Data": 2.2,
+                "NamedCell": ""
+              },
+              {
+                "Data": 56,
+                "NamedCell": ""
+              },
+              {
+                "Data": 57,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Medium"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Kansas",
+                "NamedCell": ""
+              },
+              {
+                "Data": 6,
+                "NamedCell": ""
+              },
+              {
+                "Data": 115,
+                "NamedCell": ""
+              },
+              {
+                "Data": 66,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Kentucky",
+                "NamedCell": ""
+              },
+              {
+                "Data": 9.7,
+                "NamedCell": ""
+              },
+              {
+                "Data": 109,
+                "NamedCell": ""
+              },
+              {
+                "Data": 52,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Medium"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Louisiana",
+                "NamedCell": ""
+              },
+              {
+                "Data": 15.4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 249,
+                "NamedCell": ""
+              },
+              {
+                "Data": 66,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Maine",
+                "NamedCell": ""
+              },
+              {
+                "Data": 2.1,
+                "NamedCell": ""
+              },
+              {
+                "Data": 83,
+                "NamedCell": ""
+              },
+              {
+                "Data": 51,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Medium"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Maryland",
+                "NamedCell": ""
+              },
+              {
+                "Data": 11.3,
+                "NamedCell": ""
+              },
+              {
+                "Data": 300,
+                "NamedCell": ""
+              },
+              {
+                "Data": 67,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Massachusetts",
+                "NamedCell": ""
+              },
+              {
+                "Data": 4.4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 149,
+                "NamedCell": ""
+              },
+              {
+                "Data": 85,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Michigan",
+                "NamedCell": ""
+              },
+              {
+                "Data": 12.1,
+                "NamedCell": ""
+              },
+              {
+                "Data": 255,
+                "NamedCell": ""
+              },
+              {
+                "Data": 74,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Minnesota",
+                "NamedCell": ""
+              },
+              {
+                "Data": 2.7,
+                "NamedCell": ""
+              },
+              {
+                "Data": 72,
+                "NamedCell": ""
+              },
+              {
+                "Data": 66,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Mississippi",
+                "NamedCell": ""
+              },
+              {
+                "Data": 16.1,
+                "NamedCell": ""
+              },
+              {
+                "Data": 259,
+                "NamedCell": ""
+              },
+              {
+                "Data": 44,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Small"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Missouri",
+                "NamedCell": ""
+              },
+              {
+                "Data": 9,
+                "NamedCell": ""
+              },
+              {
+                "Data": 178,
+                "NamedCell": ""
+              },
+              {
+                "Data": 70,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Montana",
+                "NamedCell": ""
+              },
+              {
+                "Data": 6,
+                "NamedCell": ""
+              },
+              {
+                "Data": 109,
+                "NamedCell": ""
+              },
+              {
+                "Data": 53,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Medium"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Nebraska",
+                "NamedCell": ""
+              },
+              {
+                "Data": 4.3,
+                "NamedCell": ""
+              },
+              {
+                "Data": 102,
+                "NamedCell": ""
+              },
+              {
+                "Data": 62,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Nevada",
+                "NamedCell": ""
+              },
+              {
+                "Data": 12.2,
+                "NamedCell": ""
+              },
+              {
+                "Data": 252,
+                "NamedCell": ""
+              },
+              {
+                "Data": 81,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "New Hampshire",
+                "NamedCell": ""
+              },
+              {
+                "Data": 2.1,
+                "NamedCell": ""
+              },
+              {
+                "Data": 57,
+                "NamedCell": ""
+              },
+              {
+                "Data": 56,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Medium"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "New Jersey",
+                "NamedCell": ""
+              },
+              {
+                "Data": 7.4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 159,
+                "NamedCell": ""
+              },
+              {
+                "Data": 89,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "New Mexico",
+                "NamedCell": ""
+              },
+              {
+                "Data": 11.4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 285,
+                "NamedCell": ""
+              },
+              {
+                "Data": 70,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "New York",
+                "NamedCell": ""
+              },
+              {
+                "Data": 11.1,
+                "NamedCell": ""
+              },
+              {
+                "Data": 254,
+                "NamedCell": ""
+              },
+              {
+                "Data": 86,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "North Carolina",
+                "NamedCell": ""
+              },
+              {
+                "Data": 13,
+                "NamedCell": ""
+              },
+              {
+                "Data": 337,
+                "NamedCell": ""
+              },
+              {
+                "Data": 45,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Small"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "North Dakota",
+                "NamedCell": ""
+              },
+              {
+                "Data": 0.8,
+                "NamedCell": ""
+              },
+              {
+                "Data": 45,
+                "NamedCell": ""
+              },
+              {
+                "Data": 44,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Small"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Ohio",
+                "NamedCell": ""
+              },
+              {
+                "Data": 7.3,
+                "NamedCell": ""
+              },
+              {
+                "Data": 120,
+                "NamedCell": ""
+              },
+              {
+                "Data": 75,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Oklahoma",
+                "NamedCell": ""
+              },
+              {
+                "Data": 6.6,
+                "NamedCell": ""
+              },
+              {
+                "Data": 151,
+                "NamedCell": ""
+              },
+              {
+                "Data": 68,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Oregon",
+                "NamedCell": ""
+              },
+              {
+                "Data": 4.9,
+                "NamedCell": ""
+              },
+              {
+                "Data": 159,
+                "NamedCell": ""
+              },
+              {
+                "Data": 67,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Pennsylvania",
+                "NamedCell": ""
+              },
+              {
+                "Data": 6.3,
+                "NamedCell": ""
+              },
+              {
+                "Data": 106,
+                "NamedCell": ""
+              },
+              {
+                "Data": 72,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Rhode Island",
+                "NamedCell": ""
+              },
+              {
+                "Data": 3.4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 174,
+                "NamedCell": ""
+              },
+              {
+                "Data": 87,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "South Carolina",
+                "NamedCell": ""
+              },
+              {
+                "Data": 14.4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 279,
+                "NamedCell": ""
+              },
+              {
+                "Data": 48,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Small"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "South Dakota",
+                "NamedCell": ""
+              },
+              {
+                "Data": 3.8,
+                "NamedCell": ""
+              },
+              {
+                "Data": 86,
+                "NamedCell": ""
+              },
+              {
+                "Data": 45,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Small"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Tennessee",
+                "NamedCell": ""
+              },
+              {
+                "Data": 13.2,
+                "NamedCell": ""
+              },
+              {
+                "Data": 188,
+                "NamedCell": ""
+              },
+              {
+                "Data": 59,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Medium"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Texas",
+                "NamedCell": ""
+              },
+              {
+                "Data": 12.7,
+                "NamedCell": ""
+              },
+              {
+                "Data": 201,
+                "NamedCell": ""
+              },
+              {
+                "Data": 80,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Utah",
+                "NamedCell": ""
+              },
+              {
+                "Data": 3.2,
+                "NamedCell": ""
+              },
+              {
+                "Data": 120,
+                "NamedCell": ""
+              },
+              {
+                "Data": 80,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Vermont",
+                "NamedCell": ""
+              },
+              {
+                "Data": 2.2,
+                "NamedCell": ""
+              },
+              {
+                "Data": 48,
+                "NamedCell": ""
+              },
+              {
+                "Data": 32,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Small"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Virginia",
+                "NamedCell": ""
+              },
+              {
+                "Data": 8.5,
+                "NamedCell": ""
+              },
+              {
+                "Data": 156,
+                "NamedCell": ""
+              },
+              {
+                "Data": 63,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Washington",
+                "NamedCell": ""
+              },
+              {
+                "Data": 4,
+                "NamedCell": ""
+              },
+              {
+                "Data": 145,
+                "NamedCell": ""
+              },
+              {
+                "Data": 73,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Extra-Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "West Virginia",
+                "NamedCell": ""
+              },
+              {
+                "Data": 5.7,
+                "NamedCell": ""
+              },
+              {
+                "Data": 81,
+                "NamedCell": ""
+              },
+              {
+                "Data": 39,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Small"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Wisconsin",
+                "NamedCell": ""
+              },
+              {
+                "Data": 2.6,
+                "NamedCell": ""
+              },
+              {
+                "Data": 53,
+                "NamedCell": ""
+              },
+              {
+                "Data": 66,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          },
+          {
+            "Cell": [
+              {
+                "Data": "Wyoming",
+                "NamedCell": ""
+              },
+              {
+                "Data": 6.8,
+                "NamedCell": ""
+              },
+              {
+                "Data": 161,
+                "NamedCell": ""
+              },
+              {
+                "Data": 60,
+                "NamedCell": ""
+              },
+              {
+                "Data": "Large"
+              }
+            ]
+          }
+        ]
+      },
+      "WorksheetOptions": {
+        "PageSetup": {
+          "Header": "",
+          "Footer": "",
+          "PageMargins": ""
+        },
+        "Selected": "",
+        "Panes": {
+          "Pane": {
+            "Number": 3,
+            "ActiveRow": 5,
+            "ActiveCol": 7
+          }
+        },
+        "ProtectObjects": "False",
+        "ProtectScenarios": "False"
+      },
+      "QueryTable": {
+        "Name": "USArrests",
+        "AutoFormatFont": "",
+        "AutoFormatPattern": "",
+        "QuerySource": {
+          "QueryType": "Text",
+          "TextWizardSettings": {
+            "Name": "",
+            "Decimal": ".",
+            "ThousandSeparator": ",",
+            "TrailingMinusNumbers": "",
+            "FormatSettings": {
+              "FieldType": [
+                "AutoFormat",
+                "AutoFormat",
+                "AutoFormat",
+                "AutoFormat"
+              ]
+            },
+            "Delimiters": {
+              "Tab": "",
+              "Comma": ""
+            }
+          },
+          "VersionLastEdit": 7,
+          "VersionLastRefresh": 7
+        }
+      }
+    }
+  }
+}
